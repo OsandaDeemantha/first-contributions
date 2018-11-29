@@ -12,6 +12,7 @@
 - [Andrew Chen](https://github.com/andrew-ch)
 - [Aviad Ariel] 
 - [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
+- [Osanda Deemantha Hemachandra](https://github.com/osandadeemantha)
 - [Devvara Rishivian](https://github.com/devararishivian)
 - [Jacqueline Bruen](https://github.com/jebruen)
 - [Saad Alnour](https://github.com/SaadAlnour)
